@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3></br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder GIF" width=="500" align="right">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder GIF" width=="500" height="300" align="right">
 </br>
 
 
