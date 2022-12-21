@@ -1,7 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3></br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder GIF" width==""500 height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder GIF" width=="500" align="right">
 </br>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajoffl18&label=Profile%20views&color=0e75b6&style=flat" alt="rajoffl18" /> </p>
